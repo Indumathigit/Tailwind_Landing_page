@@ -1,16 +1,16 @@
 @font-face {
-    font-family: Righteous;
-    src: url(../src/assets/Font/Righteous-Regular.ttf);
+    font-family: righteous;
+    src: url(../src/assets/Font/righteous-regular.ttf);
 }
 
 @font-face {
-    font-family: Saria;
-    src: url(../src/assets/Font/Saria-Regular.ttf);
+    font-family: saria;
+    src: url(../src/assets/Font/saria-regular.ttf);
 }
 
 @font-face {
-    font-family: Rowdies;
-    src: url(../src/assets/Font/Rowdies-Regular.ttf);
+    font-family: rowdies;
+    src: url(../src/assets/Font/rowdies-regular.ttf);
 }
 
 @import "tailwindcss";
