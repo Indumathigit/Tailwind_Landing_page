@@ -1,0 +1,28 @@
+@font-face {
+    font-family: Righteous;
+    src: url(../src/assets/Font/Righteous-Regular.ttf);
+}
+
+@font-face {
+    font-family: Saria;
+    src: url(../src/assets/Font/Saria-Regular.ttf);
+}
+
+@font-face {
+    font-family: Rowdies;
+    src: url(../src/assets/Font/Rowdies-Regular.ttf);
+}
+
+@import "tailwindcss";
+
+@theme{
+    --font-family-righteous: Righteous,"sans-serif";
+}
+
+@theme{
+    --font-family-saira: Saria,"sans-serif";
+}
+
+@theme{
+    --font-family-rowdies: Rowdies,"sans-serif";
+}
